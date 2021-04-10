@@ -62,7 +62,7 @@ For complete Documentation with tutorials visit []
 
 ## Available Models
 
-* FeedForward Network with Category Embedding is a simple FF network, but with and Embedding layers for the categorical columns.
+* FeedForward Network with Category Embedding is a simple FF network, but with an Embedding layer for the categorical columns.
 * [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://arxiv.org/abs/1909.06312) is a model presented in ICLR 2020 and according to the authors have beaten well-tuned Gradient Boosting models on many datasets.
 * [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442) is another model coming out of Google Research which uses Sparse Attention in multiple steps of decision making to model the output.
 
